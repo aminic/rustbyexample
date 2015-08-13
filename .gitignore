@@ -42,3 +42,9 @@ Network Trash Folder
 Temporary Items
 .apdisk
 *.exe
+/ArrayAndSlices
+/hello
+/Tuples
+
+/Structures
+/Enums
