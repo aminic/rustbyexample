@@ -19,6 +19,6 @@ mod my{
 fn main() {
     function();
     //my::function();
-    my::nested::function();
+    
 
 }
