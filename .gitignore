@@ -50,3 +50,6 @@ Temporary Items
 /Enums
 *.o
 *.rlib
+*.rlib
+*.rlib
+library.rlib
