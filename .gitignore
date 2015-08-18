@@ -53,3 +53,4 @@ Temporary Items
 *.rlib
 *.rlib
 library.rlib
+*.rlib
