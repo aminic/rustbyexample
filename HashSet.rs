@@ -7,7 +7,7 @@ fn main() {
     assert!(a.contains(&4));;;;
     println!("a:  {:?}",a );;;
 
-    assert!( b.insert(4),"Value 4 is already in set B!");
+    //assert!( b.insert(4),"Value 4 is already in set B!");
     b.insert(5);
 
     println!("A: {:?}",a );
